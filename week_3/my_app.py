@@ -10,4 +10,14 @@ else:
 import pandas as pd
 st.subheader("Exploring Our Dataset")
 
-df = pd.read_csv("/Users/chenyujun/Documents/GitHub/CHEN-Data-Science-Portfolio/week_3/data/sample_data-1.csv")
+df = pd.read_csv("data/sample_data-1.csv")
+# if in Week_2 (. out week_3)
+# pd.read_csv("./Week_2/sample_data.csv")
+
+st.write("Here's out data")
+st.dataframe(df)
+
+city = st.selectbox('Select a city', df["City"].unique())
+st.write(f"People in {city}")
+st.dataframe(df[df["City"] == city])
+st.bar_chart(df["Salary"])
