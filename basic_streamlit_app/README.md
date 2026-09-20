@@ -4,8 +4,6 @@
   <img src="data/dawit-Fwr4wTBX9RU-unsplash.jpg" alt="Close-up of a video game controller" width="600">
 </p>
 
-<p align="center">
-                
 ## ⚡ At a glance
 
 | 🎮 Game records | 📋 Data columns | 🌍 Sales regions |
@@ -13,6 +11,14 @@
 | **16,598** | **11** | **5** |
 
 I made this app to explore video game sales without scrolling through thousands of rows. Home narrows the table to one platform; Console Wars asks which platform leads in a selected year and region. Try changing just one choice at a time—the answer might change too.
+
+## ▶️ Run the app
+
+Open the repository in VS Code, then run this command in the VS Code terminal:
+
+```bash
+streamlit run basic_streamlit_app/main.py
+```
 
 ## 🕹️ Choose your view
 
