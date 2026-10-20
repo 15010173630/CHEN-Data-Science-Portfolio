@@ -13,6 +13,7 @@ I am especially interested in what a dataset can and cannot tell me. A filter or
 - [Week 2](Week_2/) — Python setup check
 - [Week 3](week_3/) — first Streamlit exercise
 - [Video Game Sales Explorer](basic_streamlit_app/) — sales by platform, year, and region
+- [2008 Olympic Medalists: Tidy Data Project](TidyData-Project/) — reshape medalist data into a tidy table, then compare records with pivot tables and heatmaps
 
 ## Tools and Skills
 
@@ -24,4 +25,6 @@ I am especially interested in what a dataset can and cannot tell me. A filter or
 
 ## Portfolio Status
 
-There are two weekly exercises and one data exploration project here now, but I do not expect the list to stay this short. As the class goes on, I will give each new project its own folder. The video game app is one stop along the way; more detailed notes about it belong in its own folder.
+There are two weekly exercises and two data exploration project here now, but I do not expect the list to stay this short. As the class goes on, I will give each new project its own folder. The video game app is one stop along the way; more detailed notes about it belong in its own folder.
+
+With the Tidy Data project, this portfolio now has two data projects alongside the weekly exercises. The video game app focuses on exploring data through filters and charts. This new project adds the step before that: cleaning and reshaping a table so it is easier to analyze.
