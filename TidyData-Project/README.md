@@ -22,13 +22,13 @@ The data set provides the names, gender, sport and medal categories of the medal
 
 ### Records by Sport and Gender
 
-![Top five sports by female medalist records](images/Screenshot 2026-10-19 at 20.32.21.png)
+![Top five sports by female medalist records](<images/Screenshot 2026-10-19 at 20.32.21.png>)
 
 There are 81 female records in athletics and 63 in swimming. Swimming is pretty much tied: 63 female records to 62 male records. Rowing has a bigger gap.
 
 ### Records by Medal Category
 
-![Medalist records by gender and medal category](images/Screenshot 2026-10-19 at 20.30.21.png)
+![Medalist records by gender and medal category](<images/Screenshot 2026-10-19 at 20.30.21.png>)
 
 The most records belong to bronze for both groups, 294 female and 374 male. These are medalist records so a team medal can count multiple times.
 
