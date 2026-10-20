@@ -15,7 +15,7 @@ The data set provides the names, gender, sport and medal categories of the medal
 ## How to Run
 
 1. Open the `TidyData-Project` folder in VS Code editor. Make sure the CSV and notebook are in the same folder.
-2. Install pandas, seaborn, matplotlib and a notebook kernel:
+2. Install pandas, seaborn, matplotlib
 3. Open `olympics_tidy_data.ipynb`, select your Python kernel and click **Run All**. Below the code cells the pivot tables and two heatmaps will be presented.
 
 ## Visual Examples
