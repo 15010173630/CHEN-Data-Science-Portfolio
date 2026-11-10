@@ -39,6 +39,9 @@ if not uploaded_file:
     st.write("Features used: age, balance, days since the previous campaign, and prior contacts.")
 else:
     target = st.selectbox("Target column", data.columns, index=None)
+    if target is None:
+        st.info("Choose a target column to continue.")
+        st.stop()
 
     feature_options = data.drop(columns=target).columns.tolist()
     feature_columns = st.multiselect("Feature columns", feature_options, default=feature_options)
